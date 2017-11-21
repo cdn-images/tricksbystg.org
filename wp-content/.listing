@@ -1,0 +1,17 @@
+drwxr-xr-x   14 tricksbyst tricksbyst       4096 Aug  6 18:39 .
+drwxr-x---    6 tricksbyst 99               4096 Aug  6 02:06 ..
+-rw-r--r--    1 tricksbyst tricksbyst       1027 Jul 20 01:53 advanced-cache.php
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Apr 26 20:31 blogs.dir
+drwxr-xr-x    3 tricksbyst tricksbyst       4096 Aug  6 20:52 cache
+-rw-r--r--    1 tricksbyst tricksbyst         28 Jan  8  2012 index.php
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Feb 10 22:04 languages
+drwxr-xr-x    9 tricksbyst tricksbyst       4096 May 30 10:27 mobileview-source
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Jul 23 06:54 mu-plugins
+drwxr-xr-x   23 tricksbyst tricksbyst       4096 Aug  5 12:40 plugins
+drwxr-xr-x    6 tricksbyst tricksbyst       4096 Jun 22 03:08 themes
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Aug  5 12:07 upgrade
+drwxr-xr-x    7 tricksbyst tricksbyst       4096 Aug  5 12:07 uploads
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Jul 20 01:53 w3tc-config
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Aug  6 20:55 wflogs
+-rw-r--r--    1 tricksbyst tricksbyst       5303 Aug  6 18:39 wp-cache-config.php
+drwxr-xr-x   12 tricksbyst tricksbyst       4096 May 30 10:36 wptouch-data

@@ -1,0 +1,5 @@
+drwxr-xr-x    3 tricksbyst tricksbyst       4096 Jun 13 23:56 .
+drwxr-xr-x    5 tricksbyst tricksbyst       4096 Jun 13 23:56 ..
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Jun 13 23:56 partials
+-rw-r--r--    1 tricksbyst tricksbyst       2588 Jun 13 23:56 vc_grid_item_editor.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       5082 Jun 13 23:56 vc_ui-template-preview.tpl.php

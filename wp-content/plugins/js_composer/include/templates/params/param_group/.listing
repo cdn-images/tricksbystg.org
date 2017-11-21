@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Jun 13 23:56 .
+drwxr-xr-x    8 tricksbyst tricksbyst       4096 Jun 13 23:56 ..
+-rw-r--r--    1 tricksbyst tricksbyst        281 Jun 13 23:56 add.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst        226 Jun 13 23:56 content.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       1135 Jun 13 23:56 inner_content.tpl.php

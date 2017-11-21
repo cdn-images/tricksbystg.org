@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Aug  7 02:57 .
+drwxr-xr-x   14 tricksbyst tricksbyst       4096 Aug  6 18:39 ..
+-rw-r--r--    1 tricksbyst tricksbyst        133 Apr 12 22:59 .htaccess
+-rw-rw----    1 tricksbyst tricksbyst      40083 Aug  6 03:44 attack-data.php
+-rw-rw----    1 tricksbyst tricksbyst      17728 Aug  7 02:57 config.php
+-rw-------    1 tricksbyst tricksbyst          0 Jul  9 10:26 config.tmp.E1F4UM
+-rw-------    1 tricksbyst tricksbyst       8192 Jul 24 17:12 config.tmp.JIbidq
+-rw-------    1 tricksbyst tricksbyst       8192 Jun 13 05:11 config.tmp.r430NI
+-rw-rw----    1 tricksbyst tricksbyst        611 Aug  5 04:25 ips.php
+-rw-rw-r--    1 tricksbyst tricksbyst      21288 Aug  3 03:53 rules.php
+-rw-rw----    1 tricksbyst tricksbyst      14996 Aug  3 03:53 wafRules.rules

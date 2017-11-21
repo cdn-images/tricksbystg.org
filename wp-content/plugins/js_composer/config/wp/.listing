@@ -1,0 +1,15 @@
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Jun 13 23:56 .
+drwxr-xr-x   11 tricksbyst tricksbyst       4096 Jun 13 23:56 ..
+-rw-r--r--    1 tricksbyst tricksbyst       1204 Jun 13 23:56 shortcode-vc-wp-archives.php
+-rw-r--r--    1 tricksbyst tricksbyst        825 Jun 13 23:56 shortcode-vc-wp-calendar.php
+-rw-r--r--    1 tricksbyst tricksbyst       1268 Jun 13 23:56 shortcode-vc-wp-categories.php
+-rw-r--r--    1 tricksbyst tricksbyst       1695 Jun 13 23:56 shortcode-vc-wp-custommenu.php
+-rw-r--r--    1 tricksbyst tricksbyst       2157 Jun 13 23:56 shortcode-vc-wp-links.php
+-rw-r--r--    1 tricksbyst tricksbyst        858 Jun 13 23:56 shortcode-vc-wp-meta.php
+-rw-r--r--    1 tricksbyst tricksbyst       1495 Jun 13 23:56 shortcode-vc-wp-pages.php
+-rw-r--r--    1 tricksbyst tricksbyst       1381 Jun 13 23:56 shortcode-vc-wp-posts.php
+-rw-r--r--    1 tricksbyst tricksbyst       1123 Jun 13 23:56 shortcode-vc-wp-recentcomments.php
+-rw-r--r--    1 tricksbyst tricksbyst       1898 Jun 13 23:56 shortcode-vc-wp-rss.php
+-rw-r--r--    1 tricksbyst tricksbyst        818 Jun 13 23:56 shortcode-vc-wp-search.php
+-rw-r--r--    1 tricksbyst tricksbyst       1639 Jun 13 23:56 shortcode-vc-wp-tagcloud.php
+-rw-r--r--    1 tricksbyst tricksbyst        950 Jun 13 23:56 shortcode-vc-wp-text.php

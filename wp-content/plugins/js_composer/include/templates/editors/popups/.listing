@@ -1,0 +1,16 @@
+drwxr-xr-x    2 tricksbyst tricksbyst       4096 Jun 13 23:56 .
+drwxr-xr-x    5 tricksbyst tricksbyst       4096 Jun 13 23:56 ..
+-rw-r--r--    1 tricksbyst tricksbyst        917 Jun 13 23:56 modal_edit_element.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       2020 Jun 13 23:56 panel_edit_layout.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst        933 Jun 13 23:56 panel_multi_shortcode_edit_form.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       2065 Jun 13 23:56 panel_post_settings.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       1044 Jun 13 23:56 panel_shortcode_edit_form.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       2034 Jun 13 23:56 panel_templates.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       4101 Jun 13 23:56 panel_templates_editor.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst        822 Jun 13 23:56 vc_ui-footer.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       1803 Jun 13 23:56 vc_ui-header.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       1907 Jun 13 23:56 vc_ui-panel-add-element.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       1459 Jun 13 23:56 vc_ui-panel-edit-element.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       2304 Jun 13 23:56 vc_ui-panel-post-settings.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       2264 Jun 13 23:56 vc_ui-panel-row-layout.tpl.php
+-rw-r--r--    1 tricksbyst tricksbyst       1958 Jun 13 23:56 vc_ui-panel-templates.tpl.php
